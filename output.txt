@@ -1,2 +1,0 @@
-Select your difficulty (b, i, h):Enter your cell you want to open :
-X (1 to 5) :
