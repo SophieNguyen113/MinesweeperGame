@@ -1,0 +1,49 @@
+WELCOME TO MINESWEEPER GAME
+If the player selects a cell which contains the bomb, the player loses the game.
+Good luck!
+Select your difficulty (b, i, h): Enter the cell you would to open: 
+X (1 to 5): Y (1 to 5): 0 - - - -
+
+- - - - -
+
+- - - - -
+
+- - - - -
+
+- - - - -
+
+Enter the cell you would to open: 
+X (1 to 5): Y (1 to 5): 0 - - - -
+
+- 0 - - -
+
+- - - - -
+
+- - - - -
+
+- - - - -
+
+Enter the cell you would to open: 
+X (1 to 5): Y (1 to 5): 0 - - - -
+
+- 0 - - -
+
+- - 1 - -
+
+- - - - -
+
+- - - - -
+
+Enter the cell you would to open: 
+X (1 to 5): Y (1 to 5): 0 - - - -
+
+- 0 - - -
+
+- - 1 - -
+
+- - - 2 -
+
+- - - - -
+
+Enter the cell you would to open: 
+X (1 to 5): Y (1 to 5): 
